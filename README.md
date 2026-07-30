@@ -27,6 +27,21 @@ Open to remote roles. Red Hat certified (OpenShift 4 & middleware integration).
 
 ## Stack
 
-Java (8–21), Spring Boot, Spring Security (OAuth2/JWT), Hibernate/JPA, Kafka, ActiveMQ,
-PostgreSQL, Redis, MongoDB, Docker, Kubernetes (EKS), OpenShift, Jenkins, GitHub Actions,
-Testcontainers, JUnit 5, Mockito, Prometheus/Grafana, Flyway, Maven, Linux.
+![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+Also working with: Spring Security (OAuth2/JWT), Hibernate/JPA, ActiveMQ, MongoDB,
+Jenkins, Testcontainers, JUnit 5, Mockito, Prometheus/Grafana, Flyway, Maven, Linux.
+
+## GitHub Activity
+
+![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianOrtiz2194&show_icons=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOrtiz2194&layout=compact)
