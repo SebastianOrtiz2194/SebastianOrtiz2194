@@ -9,8 +9,6 @@ Startups in Sydney. These days I work independently; my main project right now i
 [KuraFlow](https://github.com/SebastianOrtiz2194/KuraFlow), a language-learning platform
 I'm designing end to end.
 
-Open to remote roles. Red Hat certified (OpenShift 4 & middleware integration).
-
 ## Projects
 
 - [KuraFlow](https://github.com/SebastianOrtiz2194/KuraFlow) — language-learning platform
