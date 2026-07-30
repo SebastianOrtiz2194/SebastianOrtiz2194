@@ -43,5 +43,8 @@ Jenkins, Testcontainers, JUnit 5, Mockito, Prometheus/Grafana, Flyway, Maven, Li
 
 ## GitHub Activity
 
-![Sebastian's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianOrtiz2194&show_icons=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianOrtiz2194&layout=compact)
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianOrtiz2194&theme=default)
+
+![GitHub streak](https://streak-stats.demolab.com?user=SebastianOrtiz2194)
+
+![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianOrtiz2194&theme=default)
