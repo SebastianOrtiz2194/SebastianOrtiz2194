@@ -1,11 +1,5 @@
 # Sebastian Ortiz
 
-**Java Backend Developer | Spring Boot · Event-Driven Systems · AWS**
-
----
-
-## About
-
 Java backend developer with **4+ years** of experience building microservices, middleware, and event-driven systems with **Spring Boot**, **Apache Kafka**, and **Redis**. My engineering focus is on clean domain boundaries (**Hexagonal Architecture**, **DDD**, **CQRS**), stateless API security (**OAuth2 / JWT**), high-reliability testing (**Testcontainers**, **JUnit 5**), and containerized deployments on **Red Hat OpenShift** and **AWS EKS**.
 
 ## Featured Projects
@@ -32,11 +26,6 @@ Java backend developer with **4+ years** of experience building microservices, m
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
-
-- **Languages & Frameworks:** Java (8, 11, 17, 21), SQL, Spring Boot, Spring Framework (Security, Data JPA, Cloud Gateway, Modulith), Hibernate, Apache Camel
-- **Architecture & Messaging:** Hexagonal Architecture (Ports & Adapters), Domain-Driven Design (DDD), CQRS, Event-Driven Systems, Microservices, Apache Kafka, ActiveMQ, REST, gRPC, OpenAPI, OAuth2 / JWT
-- **Data, Testing & Quality:** PostgreSQL, Redis, Flyway, JUnit 5, Mockito, Testcontainers, ArchUnit, JMeter, Maven, Git
-- **Cloud, DevOps & Observability:** AWS EKS, Red Hat OpenShift, Kubernetes, Docker, Jenkins, GitHub Actions, Linux, OpenTelemetry, Micrometer, Prometheus, Grafana, Zipkin
 
 ---
 
