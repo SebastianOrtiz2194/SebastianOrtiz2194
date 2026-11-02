@@ -1,48 +1,52 @@
 # Sebastian Ortiz
 
-Java backend developer based in Hamamatsu, Japan (JST). Most of my work is event-driven
-microservices with Spring Boot, Kafka and Redis.
+**Java Backend Developer | Spring Boot · Event-Driven Systems · AWS**
 
-I've been writing Java professionally for 4+ years — three of them building enterprise
-systems at Assert Solutions in Colombia, then a middleware consulting contract at UTS
-Startups in Sydney. These days I work independently; my main project right now is
-[KuraFlow](https://github.com/SebastianOrtiz2194/KuraFlow), a language-learning platform
-I'm designing end to end.
+---
 
-## Projects
+## About
 
-- [KuraFlow](https://github.com/SebastianOrtiz2194/KuraFlow) — language-learning platform
-  for English (CEFR) and Japanese (JLPT). Six independently deployable Spring Boot
-  microservices behind an API gateway, Kafka for events, PostgreSQL, Redis, and a Next.js
-  frontend. Includes an SM-2 spaced-repetition engine, gamification and live leaderboards.
-- [order-management-system-hexagonal](https://github.com/SebastianOrtiz2194/order-management-system-hexagonal) —
-  event-driven order system built with ports & adapters. Domain-level state machine,
-  cache-aside reads through Redis, Kafka events, Zipkin tracing.
-- [deepLearning](https://github.com/SebastianOrtiz2194/deepLearning) — asynchronous
-  deep-learning inference over Kafka using Deep Java Library.
-- [springboot-microservices-ecommerce](https://github.com/SebastianOrtiz2194/springboot-microservices-ecommerce) —
-  e-commerce backend on Spring Cloud with PostgreSQL, Redis and S3.
+Java backend developer with **4+ years** of experience building microservices, middleware, and event-driven systems with **Spring Boot**, **Apache Kafka**, and **Redis**. My engineering focus is on clean domain boundaries (**Hexagonal Architecture**, **DDD**, **CQRS**), stateless API security (**OAuth2 / JWT**), high-reliability testing (**Testcontainers**, **JUnit 5**), and containerized deployments on **Red Hat OpenShift** and **AWS EKS**.
 
-## Stack
+## Featured Projects
+
+| Project | Architecture & Highlights | Stack |
+| :--- | :--- | :--- |
+| **[HexOrders](https://github.com/SebastianOrtiz2194/HexOrders)** | Open-source Order Management System built with **Hexagonal Architecture (Ports & Adapters)**, **DDD**, and **CQRS**. Features a framework-free domain state machine, Kafka event broadcasting with automatic Redis cache warm-up, OAuth2/JWT security, OpenTelemetry/Zipkin distributed tracing, and Testcontainers suites. | `Java 21` `Spring Boot 3` `Kafka` `Redis` `PostgreSQL` `Zipkin` `Testcontainers` |
+| **[KuraFlow](https://github.com/SebastianOrtiz2194/KuraFlow)** | Full-stack language learning platform (English CEFR & Japanese JLPT) composed of **five microservices behind a Spring Cloud Gateway**. Includes an SM-2 spaced-repetition engine, Kafka-driven notifications, Redis sorted-set leaderboards, Flyway migrations, Next.js PWA frontend, and GitHub Actions CI. | `Java 21` `Spring Boot 3` `Spring Cloud Gateway` `Kafka` `PostgreSQL` `Redis` `Next.js` |
+| **[store-tracker](https://github.com/SebastianOrtiz2194/store-tracker)** | Retail visit & purchase tracking backend structured as a **Spring Modulith**, enforcing strict bounded-context boundaries with ArchUnit on every build and integration-tested with Testcontainers. | `Java 21` `Spring Boot 3` `Spring Modulith` `ArchUnit` `PostgreSQL` `Flyway` `Testcontainers` |
+
+---
+
+## Technical Stack
 
 ![Java](https://img.shields.io/badge/Java-21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-3-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-OAuth2_%2F_JWT-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EKS_%7C_S3-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
 
-Also working with: Spring Security (OAuth2/JWT), Hibernate/JPA, ActiveMQ, MongoDB,
-Jenkins, Testcontainers, JUnit 5, Mockito, Prometheus/Grafana, Flyway, Maven, Linux.
+- **Languages & Frameworks:** Java (8, 11, 17, 21), SQL, Spring Boot, Spring Framework (Security, Data JPA, Cloud Gateway, Modulith), Hibernate, Apache Camel
+- **Architecture & Messaging:** Hexagonal Architecture (Ports & Adapters), Domain-Driven Design (DDD), CQRS, Event-Driven Systems, Microservices, Apache Kafka, ActiveMQ, REST, gRPC, OpenAPI, OAuth2 / JWT
+- **Data, Testing & Quality:** PostgreSQL, Redis, Flyway, JUnit 5, Mockito, Testcontainers, ArchUnit, JMeter, Maven, Git
+- **Cloud, DevOps & Observability:** AWS EKS, Red Hat OpenShift, Kubernetes, Docker, Jenkins, GitHub Actions, Linux, OpenTelemetry, Micrometer, Prometheus, Grafana, Zipkin
+
+---
 
 ## GitHub Activity
 
-![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianOrtiz2194&theme=default)
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SebastianOrtiz2194&theme=default" alt="Profile summary" width="100%" />
+</p>
 
-![GitHub streak](https://streak-stats.demolab.com?user=SebastianOrtiz2194)
-
-![Top languages by repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianOrtiz2194&theme=default)
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=SebastianOrtiz2194" alt="GitHub streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SebastianOrtiz2194&theme=default" alt="Top languages by repo" height="165" />
+</p>
